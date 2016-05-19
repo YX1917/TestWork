@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private String[] date = {"1","2","3","4","5","6","7","8","9","10"};
     private ListView mListView;
     private ScrollView scrollView;
+    private String s = "测试";
 
     //手指按下的点为(x1, y1)手指离开屏幕的点为(x2, y2)
     float x1 = 0;
