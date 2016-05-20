@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_listView"
+        android:title="ListView冲突"/>
+    <item
+        android:id="@+id/item_banner"
+        android:title="Banner广告轮播"/>
+
+</menu>
